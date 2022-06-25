@@ -8,7 +8,8 @@ Steve has asked us to analyze stocks that his parents have began investing in. T
 Results: Our analysis shows that as a whole, the performance of the tickers we're tracking were excellent in 2017 while most were quite poor in 2018. Based on the results shown below, I would recommend Steve's parents invest into ENPH as it has shown incredible performance year over year.  
 
 <img width="750" alt="2017 Analysis" src="https://user-images.githubusercontent.com/103234661/175762027-c15ce576-c335-4507-83b6-ebc1b3ccabcd.png">
-<img width="1402" alt="2018 Before Refactoring" src="https://user-images.githubusercontent.com/103234661/175762031-24100df1-dee8-4189-bf03-bfb28254d6ab.png">
+<img width="741" alt="2018 Analysis" src="https://user-images.githubusercontent.com/103234661/175762281-b07f3b8a-ac2a-4e39-af3e-8ea0a1c7800c.png">
+
 
 The execution of the original script was outpaced by the refactored script we ran. Shown below compares both the 2017 and 2018 pre-refactored script versus the refactored ones
 
